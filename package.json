@@ -19,7 +19,7 @@
   "dependencies": {
     "@commitlint/cli": "^19.2.1",
     "@commitlint/config-conventional": "^19.1.0",
-    "@wdio/lighthouse-service",
+    "@wdio/lighthouse-service": "^9.3.0",
     "axe-core": "^4.9.0",
     "axe-webdriverjs": "^2.3.0",
     "browser-sync": "^3.0.3",
