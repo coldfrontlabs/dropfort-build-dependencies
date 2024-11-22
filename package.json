@@ -19,9 +19,8 @@
   "dependencies": {
     "@commitlint/cli": "^19.2.1",
     "@commitlint/config-conventional": "^19.1.0",
-    "@wdio/lighthouse-service": "^9.3.0",
-    "axe-core": "^4.9.0",
-    "axe-webdriverjs": "^2.3.0",
+    "@wdio/lighthouse-service": "9.3.0",
+    "@axe-core/webdriverjs": "4.10.1",
     "browser-sync": "^3.0.3",
     "codeceptjs": "^3.6.6",
     "codeceptjs-resemblehelper": "^1.9.7",
@@ -40,6 +39,6 @@
     "selenium-webdriver": "^4.26.0",
     "standard-version": "^9.5.0",
     "standard-version-updater-yaml": "^1.0.3",
-    "webdriverio": "^6.12.1"
+    "webdriverio": "^9.3.0"
   }
 }
