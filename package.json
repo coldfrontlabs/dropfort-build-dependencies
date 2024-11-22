@@ -19,6 +19,7 @@
   "dependencies": {
     "@commitlint/cli": "^19.2.1",
     "@commitlint/config-conventional": "^19.1.0",
+    "@codeceptjs/configure": "^1.0.1",
     "axe-core": "^4.9.0",
     "axe-webdriverjs": "^2.3.0",
     "browser-sync": "^2.29.3",
