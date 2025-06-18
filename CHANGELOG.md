@@ -1,6 +1,19 @@
 # Changelog
 
-All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
+
+## [3.0.0-beta.0](https://github.com/coldfrontlabs/dropfort-build-dependencies/compare/v2.0.0...v3.0.0-beta.0) (2025-06-18)
+
+
+### ⚠ BREAKING CHANGES
+
+* **npm:** this will break all projects relying on standard version
+
+### Build System
+
+* **npm:** re-add resemblehelper now that it works again ([03ec734](https://github.com/coldfrontlabs/dropfort-build-dependencies/commit/03ec73430c95a8fc06ef21c9a8a1317220b4a675))
+* **npm:** replace standard-version for commit-and-tag-version ([d568264](https://github.com/coldfrontlabs/dropfort-build-dependencies/commit/d5682644ebbf732c65e4ea91f95ca1f2d3d2bc46))
+* **npm:** update dependencies ([78ada0e](https://github.com/coldfrontlabs/dropfort-build-dependencies/commit/78ada0e988ef1c2ed328cd5f30447fea4a3787a9))
 
 ## [2.0.0](https://github.com/coldfrontlabs/dropfort-build-dependencies/compare/v1.0.1...v2.0.0) (2025-01-24)
 
