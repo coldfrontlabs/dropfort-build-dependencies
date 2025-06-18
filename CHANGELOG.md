@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [3.0.0-beta.1](https://github.com/coldfrontlabs/dropfort-build-dependencies/compare/v3.0.0-beta.0...v3.0.0-beta.1) (2025-06-18)
+
+
+### Build System
+
+* **npm:** update eslint plugin to latest ([450e20f](https://github.com/coldfrontlabs/dropfort-build-dependencies/commit/450e20f822ac7c4f8f698ac2025dfebb84173d43))
+
 ## [3.0.0-beta.0](https://github.com/coldfrontlabs/dropfort-build-dependencies/compare/v2.0.0...v3.0.0-beta.0) (2025-06-18)
 
 
