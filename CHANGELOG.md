@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [3.0.0-beta.2](https://github.com/coldfrontlabs/dropfort-build-dependencies/compare/v3.0.0-beta.1...v3.0.0-beta.2) (2025-06-18)
+
+
+### Build System
+
+* **npm:** update all dependencies to latest ([2a64fa7](https://github.com/coldfrontlabs/dropfort-build-dependencies/commit/2a64fa787d10bbf27059faa3ab14b1f9a0d27e0c))
+
 ## [3.0.0-beta.1](https://github.com/coldfrontlabs/dropfort-build-dependencies/compare/v3.0.0-beta.0...v3.0.0-beta.1) (2025-06-18)
 
 
