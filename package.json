@@ -4,7 +4,7 @@
   "description": "A project created to have a single source for all dropfort_build node dependencies.",
   "main": "index.js",
   "scripts": {
-    "release": "standard-version -a"
+    "release": "commit-and-tag-version -a"
   },
   "repository": {
     "type": "git",
@@ -24,6 +24,7 @@
     "@wdio/lighthouse-service": "9.3.0",
     "browser-sync": "^3.0.3",
     "codeceptjs": "^3.6.6",
+    "commit-and-tag-version": "^12.5.1",
     "commitizen": "^4.3.0",
     "cz-conventional-changelog": "^3.3.0",
     "dotenv": "^10.0.0",
@@ -37,7 +38,6 @@
     "node-env-run": "^4.0.2",
     "prettier": "^3.2.5",
     "selenium-webdriver": "^4.26.0",
-    "standard-version": "^9.5.0",
     "standard-version-updater-yaml": "^1.0.3",
     "webdriverio": "^9.3.0"
   }
