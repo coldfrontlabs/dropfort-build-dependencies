@@ -56,6 +56,11 @@ const config = {
       hidden: false,
     },
   ],
+  scripts: {
+    prechangelog: "rm -f CURRENT_RELEASE.md",
+    postchangelog: "node scripts/current-release.js",
+    precommit: "git add CURRENT_RELEASE.md",
+  },
 };
 
 module.exports = config;
