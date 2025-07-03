@@ -1,6 +1,6 @@
 {
   "name": "dropfort-build-dependencies",
-  "version": "3.0.0-beta.2",
+  "version": "3.0.0",
   "description": "A project created to have a single source for all dropfort_build node dependencies.",
   "type": "module",
   "scripts": {
