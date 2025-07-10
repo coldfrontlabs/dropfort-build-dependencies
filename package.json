@@ -24,7 +24,7 @@
     "@wdio/lighthouse-service": "^9.15.0",
     "browser-sync": "^3.0.4",
     "codeceptjs": "^3.7.3",
-    "codeceptjs-resemblehelper": "^1.9.7",
+    "codeceptjs-resemblehelper": "github:codeceptjs/codeceptjs-resemblehelper",
     "commit-and-tag-version": "^12.5.1",
     "commitizen": "^4.3.1",
     "cz-conventional-changelog": "^3.3.0",
