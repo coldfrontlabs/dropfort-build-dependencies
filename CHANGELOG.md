@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [3.0.1](https://github.com/coldfrontlabs/dropfort-build-dependencies/compare/v3.0.0...v3.0.1) (2025-07-10)
+
+
+### Bug Fixes
+
+* **dependencies:** use newer resemble helper ([9e6f055](https://github.com/coldfrontlabs/dropfort-build-dependencies/commit/9e6f0550e2e3cf84f6e0357ae5ef298b81ca242f))
+
 ## [3.0.0](https://github.com/coldfrontlabs/dropfort-build-dependencies/compare/v3.0.0-beta.2...v3.0.0) (2025-07-03)
 
 
